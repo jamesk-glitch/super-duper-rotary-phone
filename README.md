@@ -1,1 +1,1 @@
-powershell.exe -c cmd.exe
+powershell.exe -c notepad.exe
